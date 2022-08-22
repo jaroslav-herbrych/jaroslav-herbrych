@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaroslav-herbrych
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on junior javascript projects
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on junior web development
 - 📫 How to reach me jaroslav.herbrych@tuta.io
 
 <!---
